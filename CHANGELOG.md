@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.49](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.48...hermes-infra-v0.2.49) (2026-11-16)
+
+
+### Maintenance
+
+* point GitHub references at AndrewM-F ([e16d35b](https://github.com/AndrewM-F/hermes-infra/commit/e16d35b9f79cc3440d774eb87fccac7036fd0963))
+
 ## [0.2.48](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.47...hermes-infra-v0.2.48) (2026-10-22)
 
 
