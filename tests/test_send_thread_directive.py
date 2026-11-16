@@ -198,7 +198,7 @@ def test_main_single_repo(load_script, monkeypatch, tmp_path, capsys):
     assert result == 0
     assert len(sent) == 1
     out = capsys.readouterr().out
-    assert "OK  0xPlayerOne/hermes-infra" in out
+    assert "OK  AndrewM-F/hermes-infra" in out
     assert "Sent to 1 thread(s)" in out
 
 

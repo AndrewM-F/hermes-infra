@@ -22,7 +22,7 @@ Chroma, code-index, second-brain, or Hindsight stack.
 ## Setup
 
 ```bash
-git clone https://github.com/0xPlayerOne/hermes-infra.git
+git clone https://github.com/AndrewM-F/hermes-infra.git
 cd hermes-infra
 cp templates/.env.example .env
 ./scripts/setup-python.sh

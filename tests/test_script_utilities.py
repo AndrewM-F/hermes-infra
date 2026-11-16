@@ -224,7 +224,7 @@ def test_repo_registry_is_complete_and_consistent(load_script):
     module = load_script("scripts/repo_registry.py")
     assert len(module.REPO_NAMES) == 9
     assert len(set(module.REPO_NAMES)) == 9  # unique display names
-    assert module.REPO_REMOTES["hermes-infra"] == "0xPlayerOne/hermes-infra"
+    assert module.REPO_REMOTES["hermes-infra"] == "AndrewM-F/hermes-infra"
     assert module.REPO_PATHS["model-gateway"].endswith("model-gateway")
     # Every name must resolve in both derived maps.
     for name in module.REPO_NAMES:

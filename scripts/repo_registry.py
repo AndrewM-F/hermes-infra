@@ -12,11 +12,11 @@ personal infra repo and the checkouts live under ~/Developer.
 
 # Ordered: display name -> (owner/repo, local path)
 REPOS = [
-    ("pink-binder", "0xPlayerOne/pink-binder", "/Users/amf/Developer/PinkBinder"),
+    ("pink-binder", "AndrewM-F/pink-binder", "/Users/amf/Developer/PinkBinder"),
     (
         "v0-portfolio",
-        "0xPlayerOne/v0-portfolio",
-        "/Users/amf/Developer/0xPlayerOne/v0-portfolio",
+        "AndrewM-F/v0-portfolio",
+        "/Users/amf/Developer/AndrewM-F/v0-portfolio",
     ),
     (
         "nifty-contracts-api",
@@ -45,13 +45,13 @@ REPOS = [
     ),
     (
         "hermes-infra",
-        "0xPlayerOne/hermes-infra",
-        "/Users/amf/Developer/0xPlayerOne/hermes-infra",
+        "AndrewM-F/hermes-infra",
+        "/Users/amf/Developer/AndrewM-F/hermes-infra",
     ),
     (
         "model-gateway",
-        "0xPlayerOne/model-gateway",
-        "/Users/amf/Developer/0xPlayerOne/model-gateway",
+        "AndrewM-F/model-gateway",
+        "/Users/amf/Developer/AndrewM-F/model-gateway",
     ),
 ]
 
