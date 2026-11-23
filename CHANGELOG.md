@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.50](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.49...hermes-infra-v0.2.50) (2026-11-23)
+
+
+### Maintenance
+
+* **deps-dev:** bump the python-dependencies group across 1 directory with 5 updates ([#241](https://github.com/AndrewM-F/hermes-infra/issues/241)) ([7dbde57](https://github.com/AndrewM-F/hermes-infra/commit/7dbde572dde3f58fd71c617549a18d718ab13dbc))
+* **deps:** bump serde_json ([#242](https://github.com/AndrewM-F/hermes-infra/issues/242)) ([362764e](https://github.com/AndrewM-F/hermes-infra/commit/362764e2115055ebd8bf96361e84e038a25a6212))
+
 ## [0.2.49](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.48...hermes-infra-v0.2.49) (2026-11-16)
 
 
