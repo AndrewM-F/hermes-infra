@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.51](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.50...hermes-infra-v0.2.51) (2026-11-24)
+
+
+### Maintenance
+
+* relicense to Apache-2.0 ([#244](https://github.com/AndrewM-F/hermes-infra/issues/244)) ([56e45e2](https://github.com/AndrewM-F/hermes-infra/commit/56e45e2b50343c3ad946ed8aa885f691f90188af))
+
 ## [0.2.50](https://github.com/AndrewM-F/hermes-infra/compare/hermes-infra-v0.2.49...hermes-infra-v0.2.50) (2026-11-23)
 
 
